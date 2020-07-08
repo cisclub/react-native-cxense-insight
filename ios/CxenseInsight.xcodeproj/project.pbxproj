@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D2AB60AC24B44BDC007753EC /* CxenseInsight.m in Sources */ = {isa = PBXBuildFile; fileRef = D2AB60AA24B44BDC007753EC /* CxenseInsight.m */; };
+		D2AB60AC24B44BDC007753EC /* RNCxenseInsight.m in Sources */ = {isa = PBXBuildFile; fileRef = D2AB60AA24B44BDC007753EC /* RNCxenseInsight.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,8 +24,8 @@
 
 /* Begin PBXFileReference section */
 		134814201AA4EA6300B7C361 /* libCxenseInsight.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libCxenseInsight.a; sourceTree = BUILT_PRODUCTS_DIR; };
-		D2AB60AA24B44BDC007753EC /* CxenseInsight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CxenseInsight.m; sourceTree = "<group>"; };
-		D2AB60AB24B44BDC007753EC /* CxenseInsight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CxenseInsight.h; sourceTree = "<group>"; };
+		D2AB60AA24B44BDC007753EC /* RNCxenseInsight.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNCxenseInsight.m; sourceTree = "<group>"; };
+		D2AB60AB24B44BDC007753EC /* RNCxenseInsight.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNCxenseInsight.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,8 +50,8 @@
 		58B511D21A9E6C8500147676 = {
 			isa = PBXGroup;
 			children = (
-				D2AB60AB24B44BDC007753EC /* CxenseInsight.h */,
-				D2AB60AA24B44BDC007753EC /* CxenseInsight.m */,
+				D2AB60AB24B44BDC007753EC /* RNCxenseInsight.h */,
+				D2AB60AA24B44BDC007753EC /* RNCxenseInsight.m */,
 				134814211AA4EA7D00B7C361 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -113,7 +113,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2AB60AC24B44BDC007753EC /* CxenseInsight.m in Sources */,
+				D2AB60AC24B44BDC007753EC /* RNCxenseInsight.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

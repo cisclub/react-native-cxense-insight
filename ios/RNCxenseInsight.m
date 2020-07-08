@@ -1,6 +1,6 @@
 #import "CxenseInsight.h"
 
-@implementation CxenseInsight
+@implementation RNCxenseInsight
 
 RCT_EXPORT_MODULE()
 
